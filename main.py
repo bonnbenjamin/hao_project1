@@ -37,8 +37,6 @@ def level3():
     import os
     import logging
 
-    import logging
-
     log_filename = './project1.log'
 
     logging.basicConfig(level=logging.INFO,
