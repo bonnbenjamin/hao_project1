@@ -1,0 +1,44 @@
+# hao_project1
+OS MODULE -----------
+
+
+need to look up the "os" module
+
+it is a core module that comes with python. It helps you access system files and do system tasks. 
+
+it can help you go through filenames in folders. 
+
+
+TRY EXCEPT ----------
+
+
+
+LOGGING -------------
+
+LEVEL 1 : 
+
+I have a folder with a bunch of files in it. 
+
+Each file has one word. 
+
+Iterate through the folder list and open each file and read the word. Grab all the word from the list and write it to your own file called hao.txt. 
+
+
+You need to learn the join() method, the endswith() method, how to read and write to a file. Also i threw in an error for you to try to go around. 
+
+
+
+LEVEL 2 : 
+
+
+There are many ways to go around the error i threw for level 1 but for level 2 i want you to try to use a try and except block to go around it. 
+
+
+
+LEVEL 3:
+
+I want you to use the logging module so that everytime you hit an error in your except block that you log it to a file named, project1.log.
+
+
+Look up the logging module how to set it up. What levels of message there are (info,error,warning).  
+
