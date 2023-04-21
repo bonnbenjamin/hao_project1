@@ -11,9 +11,15 @@ it can help you go through filenames in folders.
 
 TRY EXCEPT ----------
 
+This is a very important concept. It allows for your code to run even if there is an error and for your code to be able to do something else upon an error being called. 
 
 
 LOGGING -------------
+
+
+Logging is very important. it lets you track errors especially for long running processes or processes that have a lot of outputs. 
+Learn how to initialize the logging module. 
+
 
 LEVEL 1 : 
 
