@@ -1,4 +1,6 @@
 # hao_project1
+I took away the solutions file for now.
+
 OS MODULE -----------
 
 
