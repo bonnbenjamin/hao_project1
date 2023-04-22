@@ -1,5 +1,5 @@
 # hao_project1
-I took away the solutions file for now.
+I took away the solutions file for now.If this is too hard I will make a easier one. But it is important to have a problem with no solution to look at and find a way to do it.
 
 OS MODULE -----------
 
