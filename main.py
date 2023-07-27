@@ -35,6 +35,6 @@ try:
         if each.endswith('.txt'):
             a = open(f'word_files/result_bon.txt', "a+").write(f"{open(f'word_files/{each}').read()} ")
 except Exception as error_name:
-    logging.debug(f"Erroe: {error_name}")
+    logging.debug(f"Error: {error_name}")
 
 
